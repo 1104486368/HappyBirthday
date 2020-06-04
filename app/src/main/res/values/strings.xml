@@ -2,4 +2,9 @@
     <string name="app_name">HappyBirthday</string>
     <string name="hello">Happy Birthday!</string>
     <string name="from">Tom</string>
+    <string name="btn_reset_label">Reset</string>
+    <string name="btn3_label">+3 points</string>
+    <string name="btn2_label">+2 points</string>
+    <string name="btn1_label">+1 point</string>
+    <string name="tname_label">TeamA</string>
 </resources>
